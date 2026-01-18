@@ -19,3 +19,6 @@ The underlying architecture, logic flows, and proprietary "Neural Pathway" linki
 ​Current State: v2.0 "Surgical Consolidation" Complete.
 ​Operational Focus: Infrastructure integration and grant-tracking optimization.
 ​Partnerships: Active engagement with ElevenLabs and PartnerStack via secure API Spokes.
+
+link to jotform Audit intake
+https://form.jotform.com/260020977694059
